@@ -1,0 +1,25 @@
+.box{
+    ;
+    font: 800;
+    color: azure;
+}
+h2{
+    color: #fff;
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    left: 40%;
+    text-transform: uppercase;
+}
+p{
+    letter-spacing: 1px;
+    color: black;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+body{
+    background: darkcyan;
+}
